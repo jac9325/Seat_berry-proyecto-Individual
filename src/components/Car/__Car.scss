@@ -1,0 +1,15 @@
+.card {
+  width: 18rem;
+  font-family: 'Roboto-Slab';
+  border: 1px solid #8d8787;
+  border-radius: 3px;
+  img:hover {
+    transform: scale(1.1);
+  }
+}
+.bi-tags-fill {
+  color: #e8401b;
+}
+.card-title.text-start.ms-3 {
+  color: black;
+}
